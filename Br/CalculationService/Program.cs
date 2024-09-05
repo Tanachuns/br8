@@ -6,7 +6,14 @@ namespace CalculationService
     {
         static void Main(string[] args)
         {
-            Tree.Print(2);
+
+            //2
+            Exchanger exchanger = new();
+            exchanger.PrintConvert(100000, "WON");
+
+            //3
+            // Car car = new Car();
+            // car.getDistance(10);
         }
     }
 }
