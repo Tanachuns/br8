@@ -13,7 +13,7 @@ namespace CalculationService
 
             //3
             // Car car = new Car();
-            // car.getDistance(10);
+            // car.PrintDistance(-10);
         }
     }
 }

@@ -1,6 +1,6 @@
 namespace CalculationService;
 
-class Exchanger
+public class Exchanger
 {
     private string[] Currencies = ["WON", "USD", "YEN"];
     private decimal[] Rates = [33.72m, 0.028m, 3.4m];
