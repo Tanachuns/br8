@@ -1,5 +1,7 @@
 ## Noted
 
+    cd br
+
 **Test**
 using dotnet cli:
 
