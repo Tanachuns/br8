@@ -2,8 +2,10 @@
 
 **Test**
 using dotnet cli:
-dotnet test
+
+    dotnet test
 
 **Run**
 using dotnet cli
-dotnet run --project ./CalculationService
+
+    otnet run --project ./CalculationService
