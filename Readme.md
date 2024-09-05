@@ -8,4 +8,4 @@ using dotnet cli:
 **Run**
 using dotnet cli
 
-    otnet run --project ./CalculationService
+    dotnet run --project ./CalculationService
